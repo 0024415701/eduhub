@@ -1,5 +1,0 @@
-# Author Information
-
-- Student ID: 0024415701
-- Project: EduHub
-- Course: IN4211
