@@ -1,0 +1,25 @@
+- Sinh viên đánh giá sự kiện
+1 - Đã checkin-> Bấm đánh giá -> Lưu đánh giá
+2 - Chưa checkin -> Bấm đánh giá -> Báo lỗi ( Cần tham gia/ checkin để đánh giá) 
+
+- Ban CLB tạo sự kiện mới 
+1 Capacity < =  0 hoặc có tiêu đề trùng sự kiện đã có -> Tạo -> báo lỗi
+2 Capacity > 0, có tiêu đề sk mới -> Tạo -> thêm Event 
+
+- Ban CLB sửa sự kiện
+1 Sự kiện chưa tồn tại/ đang diễn ra/ đã kết thúc  -> Sửa -> Báo lỗi 
+2 Sự kiện có tồn tại/ sắp diễn ra -> Sửa -> lưu Event
+
+- ADMIN tạo CLB mới
+1 - SoluongTVCLB > 0, tên CLB- > Tạo -> Thêm Club
+2 - SolongTVCLB <= 0 hoặc tên rỗng -> Tạo -> Báo lỗi 
+
+- ADMIN ngưng hoạt động CLB 
+1 - CLB đang hoạt động -> Ngưng  -> Is Active() = false
+2 - Lịch sử hoạt động của CLB vẫn được lưu 
+
+
+
+
+
+
