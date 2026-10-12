@@ -1,0 +1,10 @@
+# EduHub
+
+EduHub is a club and event management application.
+
+## Main Features
+- Manage clubs.
+- Manage members.
+- Manage events.
+- Register members for events.
+- Record event check-ins.
